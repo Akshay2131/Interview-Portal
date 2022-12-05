@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859436479732",
+    "project_id": "interviewportal-16c5b",
+    "storage_bucket": "interviewportal-16c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859436479732:android:09802c558b9ac2c4155aa1",
+        "android_client_info": {
+          "package_name": "com.akshay.interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859436479732-gcjospd2mdqp46fd57443bqmie7cu8t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3yc0oi9ZFZQ2cgErXT8RU9JCeJvn8aq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859436479732-gcjospd2mdqp46fd57443bqmie7cu8t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
