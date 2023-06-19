@@ -1,1 +1,1 @@
-# Interview-Portal (Android App)
+# Interview-Portal (Android Application)
